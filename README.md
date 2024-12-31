@@ -20,3 +20,8 @@ This python weather application is build using PyQt5 GUI elements. Its weather d
 
 ### API
 Leveraged using [OpenWeatherMap's API](https://openweathermap.org/) to get daily weather data.
+
+---
+
+### Demo
+insert image
